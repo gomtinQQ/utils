@@ -17,8 +17,6 @@ al phabaet
 ```
 
 ## settings
-- vscode 
-user setting - font family - D2coding, .. => 'IBM Plex Mono', D2coding, ...
+- vscode : user setting - font family - D2coding, .. => 'IBM Plex Mono', D2coding, ...
 
-- intellj
-editor - font - IBM Plex Mono, 줄간격: 1.0
+- intellj : editor - font - IBM Plex Mono, 줄간격: 1.0
