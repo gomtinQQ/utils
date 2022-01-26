@@ -21,7 +21,7 @@ al phabaet
 - vscode : user setting - font family - D2coding, .. => 'IBM Plex Mono Medm', D2coding, ...
   - vscode는 폰트명을 직접 지정해야되며 ttf 파일 우클릭 - 속성 - 자세히 - 이름 : IBM Plex Mono Medm <- 이걸 입력해야되며, ttf 파일명과는 상관없음
 
-- intellj : editor - font - IBM Plex Mono, 줄간격: 1.0, 타이포그래피 : 굵게 => Medium
+- intellj : editor - font - IBM Plex Mono, 줄간격: 1.0, 타이포그래피 : 메인굵기(기본글자들) : Medium, 굵기(키워드글자들) => Bold
 - 참고
   - 기본 : 기본 굵기, 'IBM Plex Mono'
     - 너무 얇게 보임, 다크 모드에서는 얇으면 어둡고, 굵을수록 밝게 보임
